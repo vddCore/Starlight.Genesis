@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starlight.Genesis", "Starlight.Genesis\Starlight.Genesis.csproj", "{861E0C57-A114-4C17-A44E-0B5FDB314B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hideous", "Hideous\Hideous\Hideous.csproj", "{8B94266A-07C3-409A-A27F-1410AD407779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starlight.Genesis.TestProgram", "Starlight.Genesis.TestProgram\Starlight.Genesis.TestProgram.csproj", "{DC500F86-3EDD-414C-9649-0041E35E3167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861E0C57-A114-4C17-A44E-0B5FDB314B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861E0C57-A114-4C17-A44E-0B5FDB314B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861E0C57-A114-4C17-A44E-0B5FDB314B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861E0C57-A114-4C17-A44E-0B5FDB314B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B94266A-07C3-409A-A27F-1410AD407779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B94266A-07C3-409A-A27F-1410AD407779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B94266A-07C3-409A-A27F-1410AD407779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B94266A-07C3-409A-A27F-1410AD407779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC500F86-3EDD-414C-9649-0041E35E3167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC500F86-3EDD-414C-9649-0041E35E3167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC500F86-3EDD-414C-9649-0041E35E3167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC500F86-3EDD-414C-9649-0041E35E3167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
